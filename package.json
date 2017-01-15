@@ -4,5 +4,13 @@
   "main": "index.js",
   "repository": "https://github.com/balazs4/radio-client.git",
   "author": "balazs4 <balazs4web@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+	  "dev": "next",
+	  "build" : "build",
+	  "start": "next start"
+  },
+  "dependencies": {
+    "next": "beta"
+  }
 }
