@@ -1,0 +1,8 @@
+{
+  "name": "radio-client",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/balazs4/radio-client.git",
+  "author": "balazs4 <balazs4web@gmail.com>",
+  "license": "MIT"
+}
