@@ -6,11 +6,13 @@
   "author": "balazs4 <balazs4web@gmail.com>",
   "license": "MIT",
   "scripts": {
-	  "dev": "next",
-	  "build" : "build",
-	  "start": "next start"
+    "dev": "next",
+    "build": "build",
+    "start": "next start"
   },
   "dependencies": {
+    "axios": "^0.15.3",
+    "isomorphic-fetch": "^2.2.1",
     "next": "beta"
   }
 }
